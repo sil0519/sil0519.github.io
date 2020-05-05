@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sil0519.github.io/</id>
     <title>Sil的杂食记录</title>
-    <updated>2020-05-05T02:44:15.918Z</updated>
+    <updated>2020-05-05T03:17:27.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sil0519.github.io/"/>
     <link rel="self" href="https://sil0519.github.io/atom.xml"/>
@@ -10,6 +10,90 @@
     <logo>https://sil0519.github.io/images/avatar.png</logo>
     <icon>https://sil0519.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sil的杂食记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020/05杂食记录]]></title>
+        <id>https://sil0519.github.io/post/202005/</id>
+        <link href="https://sil0519.github.io/post/202005/">
+        </link>
+        <updated>2020-05-05T03:12:25.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="阅读">阅读📚</h2>
+<p><strong>《有限与无限的游戏》/詹姆斯·卡斯/★★★★★</strong></p>
+<p>其实是在聊哲学，不是游戏类科普（谁能想到这是1987年的作品呢）</p>
+<img src="C:\Users\tpy\AppData\Roaming\Typora\typora-user-images\image-20200501093444610.png" alt="image-20200501093444610" style="zoom:80%;" />
+<p>来自重轻老师推荐</p>
+<blockquote>
+<p>没有人能独自一人玩游戏。一个人不成其为人。没有群体，便没有自我。我们并不是作为我们本身与他人有关系，相反，我们是与他人有关系的我们。</p>
+<p>文化在一个社会中的破墙而出，并不是当它的创造者开始提出的规则与社会的规则背道而驰时，而是当他们开始忽略所有规则，并且关心如何将观众拉回游戏中──这一游戏可不是竞争性的游戏，而是宣称自己为游戏的游戏。</p>
+</blockquote>
+<p><strong>《她不是我妈妈》/米歇尔·普西/★★★☆☆</strong></p>
+<p>美式诡叙？顶天悬疑 算不上推理</p>
+<p><strong>《深度工作》/卡尔·纽波特/★★★★☆</strong></p>
+<p>看了不做等于白看😓</p>
+<blockquote>
+<p>深度工作（Deep Work）：在无干扰的状态下专注进行职业活动，使个人的认知能力达到极限。这种努力能够创造新价值，提升技能，而且难以复制。</p>
+</blockquote>
+<p><strong>《向日葵不开的夏天》/道尾秀介/★★★★☆</strong></p>
+<p>这书我也就拖了五六年吧z</p>
+<p>☟以下书摘约等于剧透</p>
+<blockquote>
+<p>“对别人的话深信不疑可不行。我刚才说的都只是我的推理，只是一种可能性而已。究竟对不对，我们现在还不知道。人一旦对某一点深信不疑就很难改变了。如果只相信一种说法，那么当面前出现和这种说法矛盾的情况时就束手无策了，也就是说失去了正确的判断。”</p>
+</blockquote>
+<p><strong>《黑客与画家》/Paul Graham/★★★★☆</strong></p>
+<blockquote>
+<p>优秀作品的秘诀就是：非常严格的品味，再加上实现这种品味的能力。</p>
+</blockquote>
+<p><strong>《逻辑学是什么》/陈波/★★★★★</strong></p>
+<p>对线教学</p>
+<blockquote>
+<p>在评价某段论证之前，最好问以下14个问题：（1）问题和结论是什么？（2）理由是什么？（3）哪些词句的意义模糊不清？（4）价值冲突和假设是什么？（5）描述性假设是什么？（6）证据是什么？（7）抽样选择是否典型？衡量标准是否有效？（8）是否存在竞争性假说？（9）统计推理是否错误？（10）类比是否贴切中肯？（11）推理中是否存在错误？（12）重要的信息资料有没有遗漏？（13）哪些结论能与有力的论据相容不悖？（14）争论中你的价值偏好是什么</p>
+</blockquote>
+<p><strong>《只过必要生活》/匠久/★★★☆☆</strong></p>
+<p>这类书读起来是不是都差不太多</p>
+<p><strong>《鬼的足音》/道尾秀介/★★★☆☆</strong></p>
+<p>反转短篇合辑。他的书是不是都差不多套路。（联动本月的另一本）</p>
+<p><strong>《月亮与六便士》/毛姆/★★☆☆☆</strong></p>
+<p>我觉得不行。一开始以为是翻译问题（虽然南海版真的烂），后面换了人文版，也就那样。</p>
+<blockquote>
+<p>生命苦短，没有时间既谈情说爱又搞艺术。</p>
+</blockquote>
+<p><strong>《情人》/玛格丽特·杜拉斯/★★★☆☆</strong></p>
+<p>这是什么流派的写作风格。</p>
+<p><strong>《圣天秤星》/彼得·汉密尔顿/★★★☆☆</strong></p>
+<p>作者不愧是编剧。故事烂，叙述好。</p>
+<!--预计是今年阅读时间最长的一本书，可太长了。-->
+<p><strong>《对倒》——刘以鬯(chang)</strong></p>
+<p>感受一下意识流小说。看评论好像短篇版是长篇改的，挺有意思的。</p>
+<blockquote>
+<p>她的脸孔红得像烧红的铁，皮肤的里层起了一阵针刺的感觉，心跳加速，内心有火焰在燃烧。她做了一个完全得不到解释的动作：将嘴唇印在镜面上，与镜子里的自己接吻。</p>
+</blockquote>
+<h2 id="电影">电影🎥</h2>
+<p><strong>巧奔妙逃/1995/中国/★★★★☆</strong></p>
+<p>不会有人没听过弹棉花吧</p>
+<p><strong>一一/2000/中国台湾/★★★★☆</strong></p>
+<p>整挺好</p>
+<p><strong>真爱至上/2003/英美法/★★★☆☆</strong></p>
+<p>没看完</p>
+<p><strong>叶问4/2019/中国香港/★★☆☆☆</strong></p>
+<p>片尾曲改的是个啥。原曲不好听吗，有必要魔改吗。</p>
+<p><strong>利刃出鞘/2019/美国/★★☆☆☆</strong></p>
+<p>就这，就这，就这</p>
+<p><s>要是女主角真就按照原来的打了，到时候调查取证（注射液为何被掉包，一个瓶子两个眼）这个案件不是更要仔细调查了吗。以及，注射液不是有盖吗取下来之后还能完美装回去？</s></p>
+<p><strong>碟中谍/1996/美国/★★★★☆</strong></p>
+<p>看看经典片段（这么嫩的阿汤哥他不香吗）</p>
+<h2 id="podcast">PODCAST🎧</h2>
+<p><strong>迟早过年·像打游戏一样读书——迟早更新</strong></p>
+<p>和叶问4联动一下；重轻老师怼好莱坞1/1；刘以鬯也是听这个了解到的</p>
+<p><strong>一个国家该有怎样的文化自信——梁文道·八分</strong></p>
+<p><strong>这个世界并不存在最完美的投票机制——机核网GADIO</strong></p>
+<p>感受一下自己浅薄的见识</p>
+<p><strong>蒋勋说红楼梦——蒋勋</strong></p>
+<p>热心网友上传的吧，听到第一回结束了。</p>
+<p><s>这个配乐来来回回就一首</s></p>
+<p><strong>西部世界第二季的音乐故事——联客</strong></p>
+<p>重轻老师主场；感受一下自己的无知程度</p>
+<p>其实这个月把机核聊《西部世界》的节目（重轻老师主讲）全部重温了一遍，在机核好像也讲过一点配乐。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TI 9]]></title>
         <id>https://sil0519.github.io/post/ti-9/</id>
