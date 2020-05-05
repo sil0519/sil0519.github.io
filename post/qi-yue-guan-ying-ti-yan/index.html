@@ -1,97 +1,101 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
 <title>2019/07 | Sil的杂食记录</title>
 <meta name="description" content="且将新火试新茶，诗酒趁年华">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="shortcut icon" href="https://sil0519.github.io//favicon.ico?v=1588638993081">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
+<link rel="shortcut icon" href="https://sil0519.github.io//favicon.ico?v=1588639223901">
 <link rel="stylesheet" href="https://sil0519.github.io//styles/main.css">
 
 
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
-
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
   </head>
   <body>
-  
-    <nav class="navbar border fixed split-nav">
-  <div class="nav-brand">
-    <h3><a href="https://sil0519.github.io/">Sil的杂食记录</a></h3>
-  </div>
-  <div class="collapsible">
-    <input id="collapsible1" type="checkbox" name="collapsible1">
-    <button>
-      <label for="collapsible1">
-        <div class="bar1"></div>
-        <div class="bar2"></div>
-        <div class="bar3"></div>
-      </label>
-    </button>
-    <div class="collapsible-body">
-      <ul class="inline">
-        
-          <li>
-            
-              <a href="/" class="menu">
-                首页
-              </a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/archives" class="menu">
-                归档
-              </a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/tags" class="menu">
-                标签
-              </a>
-            
-          </li>
-        
-          <li>
-            
-              <a href="/post/about" class="menu">
-                关于
-              </a>
-            
-          </li>
-        
-      </ul>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://sil0519.github.io/">
+        <img class="avatar" src="https://sil0519.github.io//images/avatar.png?v=1588639223901" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://sil0519.github.io/">
+        <h1 class="site-title">Sil的杂食记录</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
     </div>
   </div>
-</nav>
+</div>
 
-    <div id="top" class="row site">
-      <div class="sm-12 md-8 col">
-        <div class="paper">
-          <article class="article">
-            <h1>2019/07</h1>
-            <p class="article-meta">
-              2019-08-22
-              
-                <a href="https://sil0519.github.io/tag/jT2MgZFoK/" class="badge secondary">
-                  电影
-                </a>
-              
-            </p>
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">2019/07</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2019-08-22</span>
             
-            <div class="post-content">
-              <p><strong>FATE HF/日本/2019/★★☆☆☆</strong><br>
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://sil0519.github.io/tag/jT2MgZFoK/">
+                    电影
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p><strong>FATE HF/日本/2019/★★☆☆☆</strong><br>
 非粉丝观看体验大打折扣<br>
 男主圣母白莲花，女主绿茶；配角才死的手下转头就好了伤疤忘了痛<br>
 打架不需要脑子，猛就完事了</p>
@@ -105,127 +109,52 @@
 <p>哪吒从小被针对（加上出身的描述来看一共只出现过两次镜头），心里不服我可以理解，但恁也没想着憋口气说有一天我要证明给你们看我是个什么样的人啊；这些人是不是因为一直被你欺负才怕你？你也没有镜头表述你此时的心理是用武力让这群人对我敬畏之类啊？你是不是一直任性才会在这些人心里留下负面印象。后面斗海夜叉，但没人相信你，你就说你的种种行为是不是狼来了的故事。虽然你把人救下下来了，但前面破坏村子的是不是你，到处放火的是不是你？</p>
 <p>“我命由我不由天”这话不是口号喊喊就完事了，你的种种行为根本没有表露出你要跟天斗啊</p>
 
-            </div>
-          </article>
+          </div>
         </div>
-        <div class="paper" data-aos="fade-in">
-          
-            <div class="next-post">
-              <div class="next">
-                下一篇
-              </div>
-              <a href="https://sil0519.github.io/post/2019-shu-zhai/">
-                <h3 class="post-title">
-                  📑2019书摘
-                </h3>
-              </a>
-            </div>
-          
-        </div>
+
         
+          <div class="next-post">
+            <a class="purple-link" href="https://sil0519.github.io/post/2019-shu-zhai/">
+              <h3 class="post-title">
+                下一篇：📑2019书摘
+              </h3>
+            </a>
+          </div>
+          
       </div>
 
-      <div class="sm-12 md-4 col sidebar">
-  <div class="paper info-container">
-    <img src="https://sil0519.github.io//images/avatar.png?v=1588638993081" class="no-responsive avatar">
-    <div class="text-muted">且将新火试新茶，诗酒趁年华</div>
-    <div class="social-container">
       
-        
+
+      <div class="site-footer">
+  <div class="slogan">且将新火试新茶，诗酒趁年华</div>
+  <div class="social-container">
+    
       
-        
+    
       
-        
+    
       
-        
+    
       
-        
+    
       
-    </div>
+    
   </div>
-  <div class="paper">
-    <div class="sidebar-title">
-      最新文章
-    </div>
-    <div class="row">
-      <ul>
-        
-          
-            <li>
-              <a href="https://sil0519.github.io/post/ti-9/">TI 9</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://sil0519.github.io/post/ba-yue-xiao-jie/">2019/08</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://sil0519.github.io/post/qi-yue-guan-ying-ti-yan/">2019/07</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://sil0519.github.io/post/2019-shu-zhai/">📑2019书摘</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://sil0519.github.io/post/20196-guan-ying-xiao-jie/">2019/06观影小结</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://sil0519.github.io/post/about/">关于</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://sil0519.github.io/post/hello-gridea/">Hello Gridea</a>
-            </li>
-          
-        
-      </ul>
-    </div>
-  </div>
-  <div class="paper">
-    <div class="sidebar-title">
-      标签列表
-    </div>
-    <div class="row">
-      
-        <a href="https://sil0519.github.io/tag/jT2MgZFoK/" class="badge ">
-          电影
-        </a>
-      
-        <a href="https://sil0519.github.io/tag/read/" class="badge success">
-          读书
-        </a>
-      
-    </div>
-  </div>
-  <div class="paper">
-    Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
 </div>
 
 
     </div>
-
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
-<script type="application/javascript">
-
-AOS.init();
+    <script type="application/javascript">
 
 hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
 </script>
 
