@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sil0519.github.io/</id>
     <title>Sil的杂食记录</title>
-    <updated>2020-05-05T03:18:10.211Z</updated>
+    <updated>2020-05-08T03:44:09.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sil0519.github.io/"/>
     <link rel="self" href="https://sil0519.github.io/atom.xml"/>
@@ -10,6 +10,58 @@
     <logo>https://sil0519.github.io/images/avatar.png</logo>
     <icon>https://sil0519.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sil的杂食记录</rights>
+    <entry>
+        <title type="html"><![CDATA[酒类记录]]></title>
+        <id>https://sil0519.github.io/post/jiu-lei-ji-lu/</id>
+        <link href="https://sil0519.github.io/post/jiu-lei-ji-lu/">
+        </link>
+        <updated>2020-05-08T03:43:18.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="bear">BEAR🍺</h2>
+<p><code>持续更新</code></p>
+<ul>
+<li><strong>乌苏啤酒</strong></li>
+</ul>
+<img src="C:\Users\tpy\AppData\Roaming\Typora\typora-user-images\image-20200507154533067.png" alt="image-20200507154533067" style="zoom: 25%;" />
+<p>口味偏酸（没一个人喝完过 听说会醉）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[备餐技巧]]></title>
+        <id>https://sil0519.github.io/post/bei-can-ji-qiao/</id>
+        <link href="https://sil0519.github.io/post/bei-can-ji-qiao/">
+        </link>
+        <updated>2020-05-08T03:41:17.000Z</updated>
+        <content type="html"><![CDATA[<p><code>采购一周食材，冰冻保存</code></p>
+<hr>
+<h2 id="肉类">肉类🥩</h2>
+<p>改刀切好，可提前腌制再分装，<strong>冷藏解冻</strong></p>
+<p><strong>生鲜肉类</strong>要切分冷冻，以一次的用量分装到保鲜袋或者密实袋里冷冻（密实袋的挑选详见下一章），可以避免反复解冻。<strong>贝壳类</strong>买来如果是新鲜的，要先吐净泥沙之后再分装冷冻。通常<strong>海鲜类</strong>形状不规则，有坚硬的表皮，而且海鲜味道会更重一些，需要用比较厚实的密实袋来包装。</p>
+<h2 id="素菜">素菜🥦</h2>
+<p><strong>花菜、胡萝卜、菌菇</strong>：焯水后冷冻</p>
+<p><strong>绿叶菜</strong>：洗切后冷藏3d</p>
+<p><strong>根茎类</strong>的蔬菜，比如土豆、红薯、胡萝卜，完全可以带着泥用旧报纸、厨房纸包起来。为了延缓<strong>土豆</strong>的发芽速度，还可以把土豆和苹果放在一起。成熟的苹果会释放出植物激素乙烯，可以有效抑制土豆发芽需要产生的生长激素，这样土豆就不会发芽了。<strong>白萝卜</strong>如果有很长的萝卜缨，需要把萝卜缨切掉，防止萝卜继续生长影响口感。</p>
+<p><strong>小葱、大葱、香菜</strong>这类增加味觉层次的香料，以及<strong>蒜苗、芹菜、胡萝卜、洋葱</strong>，都可以切碎切条、切段、切丁，装密封袋直接冰箱冷冻。</p>
+<p><strong>十字花科类</strong>的蔬菜不能直接冷冻，需要焯水后控干水分再冷冻，比如花菜、西兰花、甘蓝、青菜、牛蒡、芥蓝等。处理过程中尽量不要切，减少切面带来的维生素损失和味道流失，比如豆角、各类叶菜，可以直接入水焯。在焯制蔬菜的沸水中加一点盐和一两滴油，可以减少营养成分的流失、保持蔬菜鲜亮的颜色。焯水之后要泡在冷水中降温，沥干水分后就可以放进密实袋中冷冻保存。</p>
+<p>百香果挖出果肉、柠檬榨汁或者切片都可以冻在冰格里。大部分<strong>水果</strong>都可以通过榨汁、打碎成果肉的方式冷冻保存，当然工序复杂的方法还有做成果酱、烘成果干等。</p>
+<p><strong>番茄</strong>适合常温保存no冰箱！！！</p>
+<h2 id="主食">主食🍚</h2>
+<p>分装冷冻</p>
+<h2 id="其它">其它</h2>
+<ul>
+<li><strong>冷冻高汤</strong></li>
+</ul>
+<p>经常冷冻的另一种食材是高汤，比如猪骨汤、鸡汤、牛骨汤等等，一般炖出一锅都是吃不完的，可以晾凉之后分装冷冻。之后炖菜、煮面、涮火锅的时候，直接拿出一块来当汤底用，非常方便。</p>
+<hr>
+<h2 id="硬件推荐">硬件推荐</h2>
+<p>宜家密封袋；YAMADA可冷冻保鲜盒</p>
+<p>PP收纳盒</p>
+<p>厨房纸</p>
+<hr>
+<h2 id="from">FROM：</h2>
+<p>weibo@阿夫拉图</p>
+<p>[少数派 - 把食材放进冰箱一共需要几步？这样囤粮耐久又健康 ]</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020/04杂食记录]]></title>
         <id>https://sil0519.github.io/post/202005/</id>
